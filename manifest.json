@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+	"version": "0.1",
+    "name": "Mudar Cores",
+    "description": "Extensão que muda a cor - iCores",
+	"permissions": [
+        "activeTab"
+    ],
+    "browser_action": {
+   	 "default_title": "Mudar Cores",
+   	 "default_popup": "index.html",
+   	 "default_icon": "icon.png"
+    },
+}
